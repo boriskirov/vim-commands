@@ -14,3 +14,4 @@ A helpful list of commands for faster work with vim.
 | Save the file    |  `Esc + :w`     |
 | Save & close the file    |  `Esc + :x`     |
 | Quit    |  `Esc + :q`     |
+| Move to previous buffer | `:bp`|
