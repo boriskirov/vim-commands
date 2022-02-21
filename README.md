@@ -7,7 +7,9 @@ A helpful list of commands for faster work with vim.
 | Move right    |  `j`     |
 | Move up    |  `k`     |
 | Move down    |  `l`     |
-| Move to a specific line    |  `#G / #gg`     |
+| Move to a specific line    |  `#G / #gg / 55G`     |
+| Move half page up    |  `ctrl + u`     |
+| Move half page down    |  `ctrl + d`     |
 | Insert mode    |  `i`     |
 | Exit insert mode    |  `Esc`     |
 | Save the file    |  `Esc + :w`     |
