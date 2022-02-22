@@ -21,6 +21,9 @@ A helpful list of commands for faster work with vim.
 | :---        |    :----:   |
 | Insert mode (before the cursor)    |  `i`     |
 | Insert/Append mode (after the cursor)    |  `a`     |
+| Change word    |  `cw`     |
+| Change inner ("/</{)    |  `ci"`     |
+| Undo last change    |  `u`     |
 | Exit insert mode    |  `Esc`     |
 | Save the file    |  `Esc + :w`     |
 | Save & close the file    |  `Esc + :x`     |
