@@ -21,7 +21,7 @@ A helpful list of commands for faster work with vim.
 | Command      | Key | 
 | :---        |    :----:   |
 | Search | `/`|
-| Search Show nex | `n`|
+| Searching and show next | `n`|
 
 #### Basics
 | Command      | Key | 
