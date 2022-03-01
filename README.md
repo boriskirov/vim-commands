@@ -16,6 +16,13 @@ A helpful list of commands for faster work with vim.
 | Move half page down    |  `ctrl + d`     |
 | Move to previous buffer | `:bp`|
 
+#### Searching
+
+| Command      | Key | 
+| :---        |    :----:   |
+| Search | `/`|
+| Search Show nex | `n`|
+
 #### Basics
 | Command      | Key | 
 | :---        |    :----:   |
