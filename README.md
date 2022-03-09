@@ -36,3 +36,10 @@ A helpful list of commands for faster work with vim.
 | Save & close the file    |  `Esc + :x`     |
 | Quit    |  `Esc + :q`     |
 
+
+#### Copy, paste, delete
+| Command      | Key | 
+| :---        |    :----:   |
+| Copy single line    |  `yy`     |
+| Paste single line    |  `p`     |
+| Delete single line    |  `dd`     |       
