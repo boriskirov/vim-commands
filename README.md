@@ -34,6 +34,7 @@ A helpful list of commands for faster work with vim.
 | Exit insert mode    |  `Esc`     |
 | Save the file    |  `Esc + :w`     |
 | Save & close the file    |  `Esc + :x`     |
+| Go back    |  `:eX`     |
 | Quit    |  `Esc + :q`     |
 
 
