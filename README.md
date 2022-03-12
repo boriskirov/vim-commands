@@ -15,6 +15,7 @@ A helpful list of commands for faster work with vim.
 | Move half page up              | `ctrl + u`       |
 | Move half page down            | `ctrl + d`       |
 | Move to previous buffer        | `:bp`            |
+| Go to file under the curosr    | `gf`             |
 
 #### Searching
 
