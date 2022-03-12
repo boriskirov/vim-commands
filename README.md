@@ -3,8 +3,9 @@ A helpful list of commands for faster work with vim.
 
 #### Movement and navigation
 
+
 | Command                                  | Key              |
-|------------------------------------------|-:-:--------------|
+| -----------------------------------------| :-:              |
 | Move left                                | `h`              |
 | Move right                               | `j`              |
 | Move up                                  | `k`              |
