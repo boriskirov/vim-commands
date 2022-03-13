@@ -28,18 +28,19 @@ A helpful list of commands for faster work with vim.
 
 #### Basics
 
-| Command                               | Key        |
-| ------------------------------------- | :--------: |
-| Insert mode (before the cursor)       | `i`        |
-| Insert/Append mode (after the cursor) | `a`        |
-| Change word                           | `cw`       |
-| Change inner ("/</{)                  | `ci"`      |
-| Undo last change                      | `u`        |
-| Exit insert mode                      | `Esc`      |
-| Save the file                         | `Esc + :w` |
-| Save & close the file                 | `Esc + :x` |
-| Go back                               | `:eX`      |
-| Quit                                  | `Esc + :q` |
+| Command                               |      Key      |
+| ------------------------------------- | :-----------: |
+| Insert mode (before the cursor)       |      `i`      |
+| Insert/Append mode (after the cursor) |      `a`      |
+| Change word                           |     `cw`      |
+| Change inner ("/</{)                  |     `ci"`     |
+| Undo last change                      |      `u`      |
+| Find &replace                         | `:%s/foo/bar` |
+| Exit insert mode                      |     `Esc`     |
+| Save the file                         |  `Esc + :w`   |
+| Save & close the file                 |  `Esc + :x`   |
+| Go back                               |     `:eX`     |
+| Quit                                  |  `Esc + :q`   |
 
 
 #### Copy, paste, delete
