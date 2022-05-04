@@ -15,6 +15,7 @@ A helpful list of commands for faster work with vim.
 | Move to a specific line                  | `#G / #gg / 55G` |
 | Move half page up                        | `ctrl + u`       |
 | Move half page down                      | `ctrl + d`       |
+| Move to the end of the row               | `$`              |
 | Move to previous buffer                  | `:bp`            |
 | Go to file under the curosr              | `gf`             |
 | Go to older cursor position in jump list | `ctr + O`        |
